@@ -1,0 +1,149 @@
+country,segment,action,customers,orders,revenue_gbp,recency_total,repeat_customers
+Australia,At Risk,Investigate and reactivate,1,3,1433.33,403,1
+Australia,Champions,Reward and retain,3,63,158791.69999999998,77,3
+Australia,Hibernating,Test low-cost reactivation,6,7,1535.3,2828,1
+Australia,Loyal Customers,Develop account depth,3,30,8235.8,242,3
+Australia,Needs Attention,Test engagement,2,7,4443.46,248,2
+Austria,At Risk,Investigate and reactivate,3,10,4285.639999999999,894,2
+Austria,Champions,Reward and retain,2,13,8139.960000000001,55,2
+Austria,Hibernating,Test low-cost reactivation,1,2,859.2,463,1
+Austria,Needs Attention,Test engagement,3,7,2525.7200000000003,729,2
+Austria,Potential Loyalists,Encourage next purchase,2,8,6312.69,53,2
+Bahrain,Hibernating,Test low-cost reactivation,2,4,1354.37,420,2
+Belgium,At Risk,Investigate and reactivate,3,10,4422.65,988,2
+Belgium,Champions,Reward and retain,8,86,40058.28,157,8
+Belgium,Hibernating,Test low-cost reactivation,5,6,1901.1599999999999,1821,1
+Belgium,Loyal Customers,Develop account depth,3,20,5024.91,316,3
+Belgium,Needs Attention,Test engagement,3,9,2681.31,450,2
+Belgium,Potential Loyalists,Encourage next purchase,5,16,9891.76,174,5
+Brazil,Hibernating,Test low-cost reactivation,2,2,1411.87,684,0
+Canada,Hibernating,Test low-cost reactivation,3,4,1891.44,888,1
+Canada,Needs Attention,Test engagement,2,4,2991.6,255,1
+Channel Islands,At Risk,Investigate and reactivate,5,17,14914.9,1945,5
+Channel Islands,Champions,Reward and retain,2,17,13668.49,39,2
+Channel Islands,Hibernating,Test low-cost reactivation,2,3,1585.83,802,1
+Channel Islands,Loyal Customers,Develop account depth,2,11,8740.23,191,2
+Channel Islands,Needs Attention,Test engagement,1,4,4092.0,111,1
+Channel Islands,Potential Loyalists,Encourage next purchase,1,3,1621.88,57,1
+Cyprus,Champions,Reward and retain,3,23,15914.79,132,3
+Cyprus,Hibernating,Test low-cost reactivation,4,6,3202.2000000000003,2238,2
+Cyprus,Loyal Customers,Develop account depth,1,8,2995.91,67,1
+Cyprus,Needs Attention,Test engagement,2,4,1280.0900000000001,370,1
+Czech Republic,Needs Attention,Test engagement,1,2,826.74,64,1
+Denmark,At Risk,Investigate and reactivate,1,5,34095.26,633,1
+Denmark,Champions,Reward and retain,2,13,12594.77,33,2
+Denmark,Loyal Customers,Develop account depth,2,12,16522.86,155,2
+Denmark,Needs Attention,Test engagement,3,9,3931.2,196,3
+Denmark,New / Recent,Onboard,1,1,168.9,5,0
+Denmark,Potential Loyalists,Encourage next purchase,1,2,1019.36,50,1
+EIRE,Champions,Reward and retain,2,554,604858.4299999999,12,2
+EIRE,Hibernating,Test low-cost reactivation,1,1,107.14,683,0
+EIRE,Loyal Customers,Develop account depth,1,11,11403.41,162,1
+European Community,Needs Attention,Test engagement,1,4,1300.25,142,1
+Finland,At Risk,Investigate and reactivate,1,4,1980.4,239,1
+Finland,Champions,Reward and retain,4,34,19848.91,101,4
+Finland,Hibernating,Test low-cost reactivation,2,3,915.15,1118,1
+Finland,Loyal Customers,Develop account depth,1,5,2019.4,76,1
+Finland,Needs Attention,Test engagement,1,1,1710.39,149,0
+Finland,New / Recent,Onboard,2,2,764.13,67,0
+Finland,Potential Loyalists,Encourage next purchase,3,8,2687.16,61,3
+France,At Risk,Investigate and reactivate,2,7,4427.91,727,2
+France,Champions,Reward and retain,29,451,271007.51,465,29
+France,Hibernating,Test low-cost reactivation,19,24,6746.4800000000005,7269,5
+France,Loyal Customers,Develop account depth,5,41,19554.27,302,5
+France,Needs Attention,Test engagement,19,44,14578.02,2834,13
+France,New / Recent,Onboard,7,7,1967.55,205,0
+France,Potential Loyalists,Encourage next purchase,14,42,30825.62,315,14
+Germany,At Risk,Investigate and reactivate,10,27,30894.050000000003,3692,8
+Germany,Champions,Reward and retain,32,578,319338.9,679,32
+Germany,Hibernating,Test low-cost reactivation,14,18,6118.64,6133,4
+Germany,Loyal Customers,Develop account depth,11,70,24545.61,1099,11
+Germany,Needs Attention,Test engagement,16,44,24575.29,1870,12
+Germany,New / Recent,Onboard,6,6,3217.71,114,0
+Germany,Potential Loyalists,Encourage next purchase,17,45,16232.460000000001,368,17
+Greece,At Risk,Investigate and reactivate,3,14,17106.29,1030,2
+Greece,Needs Attention,Test engagement,1,3,1308.91,152,1
+Greece,New / Recent,Onboard,1,1,680.99,4,0
+Iceland,Champions,Reward and retain,1,8,4921.53,3,1
+Israel,At Risk,Investigate and reactivate,1,1,1248.42,395,0
+Israel,Needs Attention,Test engagement,3,6,9166.82,330,2
+Italy,At Risk,Investigate and reactivate,3,9,5203.47,958,3
+Italy,Champions,Reward and retain,4,35,11417.05,82,4
+Italy,Hibernating,Test low-cost reactivation,4,5,2545.3900000000003,1726,1
+Italy,New / Recent,Onboard,2,2,1370.6299999999999,75,0
+Italy,Potential Loyalists,Encourage next purchase,4,14,11571.63,98,4
+Japan,At Risk,Investigate and reactivate,3,16,11493.45,728,3
+Japan,Champions,Reward and retain,1,6,21429.39,23,1
+Japan,Hibernating,Test low-cost reactivation,2,3,754.34,1065,1
+Japan,Needs Attention,Test engagement,2,3,606.16,226,1
+Japan,New / Recent,Onboard,1,1,229.64,45,0
+Japan,Potential Loyalists,Encourage next purchase,1,4,8510.93,11,1
+Korea,Hibernating,Test low-cost reactivation,2,2,1118.51,827,0
+Lebanon,At Risk,Investigate and reactivate,1,1,1693.88,317,0
+Lithuania,At Risk,Investigate and reactivate,1,6,4892.68,367,1
+Malta,Loyal Customers,Develop account depth,1,5,6279.0,117,1
+Malta,Potential Loyalists,Encourage next purchase,1,4,1820.09,23,1
+Netherlands,At Risk,Investigate and reactivate,5,23,8269.8,2167,5
+Netherlands,Champions,Reward and retain,4,175,537085.06,93,4
+Netherlands,Hibernating,Test low-cost reactivation,9,12,4686.38,4341,3
+Netherlands,Loyal Customers,Develop account depth,1,7,2416.42,187,1
+Netherlands,Needs Attention,Test engagement,2,7,718.25,530,2
+Netherlands,Potential Loyalists,Encourage next purchase,1,4,862.18,10,1
+Nigeria,Hibernating,Test low-cost reactivation,1,2,140.39,477,1
+Norway,At Risk,Investigate and reactivate,2,3,15909.68,1033,1
+Norway,Champions,Reward and retain,5,35,31554.07,108,5
+Norway,Hibernating,Test low-cost reactivation,2,2,819.71,1044,0
+Norway,Needs Attention,Test engagement,2,2,4875.79,182,0
+Norway,New / Recent,Onboard,1,1,256.4,44,0
+Norway,Potential Loyalists,Encourage next purchase,1,2,2906.85,15,1
+Poland,Champions,Reward and retain,2,22,8616.83,74,2
+Poland,Needs Attention,Test engagement,4,6,2037.46,475,2
+Portugal,At Risk,Investigate and reactivate,1,5,1033.9,261,1
+Portugal,Champions,Reward and retain,5,45,29969.519999999997,51,5
+Portugal,Hibernating,Test low-cost reactivation,6,8,1958.8600000000001,3025,2
+Portugal,Loyal Customers,Develop account depth,2,12,10679.94,154,2
+Portugal,Needs Attention,Test engagement,6,15,6960.0,1488,5
+Portugal,New / Recent,Onboard,1,1,430.48,19,0
+Portugal,Potential Loyalists,Encourage next purchase,3,7,4522.08,72,3
+RSA,Hibernating,Test low-cost reactivation,1,1,931.43,675,0
+RSA,New / Recent,Onboard,1,1,1002.31,58,0
+Saudi Arabia,Hibernating,Test low-cost reactivation,1,1,145.92,289,0
+Singapore,Champions,Reward and retain,1,11,25317.06,52,1
+Spain,Champions,Reward and retain,5,65,74599.26,150,5
+Spain,Hibernating,Test low-cost reactivation,12,15,5534.490000000001,6221,3
+Spain,Loyal Customers,Develop account depth,6,44,17712.0,489,6
+Spain,Needs Attention,Test engagement,5,11,4288.0599999999995,656,3
+Spain,New / Recent,Onboard,3,3,994.21,86,0
+Spain,Potential Loyalists,Encourage next purchase,8,19,9436.75,272,8
+Sweden,At Risk,Investigate and reactivate,4,36,28700.9,1683,4
+Sweden,Champions,Reward and retain,3,53,55721.39,48,3
+Sweden,Hibernating,Test low-cost reactivation,8,8,4685.19,4065,0
+Sweden,Needs Attention,Test engagement,2,2,529.26,223,0
+Sweden,Potential Loyalists,Encourage next purchase,2,5,1879.08,63,2
+Switzerland,At Risk,Investigate and reactivate,2,7,6311.43,605,2
+Switzerland,Champions,Reward and retain,3,24,23343.260000000002,115,3
+Switzerland,Hibernating,Test low-cost reactivation,2,4,1121.78,666,2
+Switzerland,Loyal Customers,Develop account depth,1,7,23419.29,79,1
+Switzerland,Needs Attention,Test engagement,7,22,16719.07,929,7
+Switzerland,New / Recent,Onboard,1,1,1635.66,46,0
+Switzerland,Potential Loyalists,Encourage next purchase,4,10,22484.54,125,4
+Thailand,At Risk,Investigate and reactivate,1,2,3070.54,523,1
+USA,At Risk,Investigate and reactivate,2,10,4000.55,811,2
+USA,Hibernating,Test low-cost reactivation,4,6,1169.87,2229,2
+USA,Needs Attention,Test engagement,1,1,1579.51,61,0
+USA,New / Recent,Onboard,1,1,269.96,8,0
+USA,Potential Loyalists,Encourage next purchase,1,2,1346.97,5,1
+United Arab Emirates,At Risk,Investigate and reactivate,1,5,4756.74,299,1
+United Arab Emirates,Hibernating,Test low-cost reactivation,2,2,1719.22,1356,0
+United Arab Emirates,Needs Attention,Test engagement,1,4,2726.73,79,1
+United Kingdom,At Risk,Investigate and reactivate,422,2720,1291553.8,152239,405
+United Kingdom,Champions,Reward and retain,1147,19723,9507016.0,22996,1147
+United Kingdom,Hibernating,Test low-cost reactivation,1445,1863,467740.03,662768,418
+United Kingdom,Loyal Customers,Develop account depth,570,4812,1619928.4,49193,570
+United Kingdom,Needs Attention,Test engagement,915,2359,702129.47,178705,694
+United Kingdom,New / Recent,Onboard,209,209,67516.87,6445,0
+United Kingdom,Potential Loyalists,Encourage next purchase,642,1856,733551.89,16626,642
+Unspecified,Hibernating,Test low-cost reactivation,2,2,512.88,1066,0
+Unspecified,Loyal Customers,Develop account depth,1,6,5628.99,173,1
+Unspecified,Needs Attention,Test engagement,3,8,2465.48,355,3
+West Indies,Hibernating,Test low-cost reactivation,1,1,536.41,474,0
