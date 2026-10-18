@@ -2,7 +2,11 @@
 
 Turn historical purchase records into transparent customer priorities for retention, reactivation and relationship development. A reproducible Python pipeline and independent SQL checks connect customer behavior to testable marketing actions.
 
-**Tableau status:** new combined workbook **not published**. Editable [TWBX draft](tableau/Customer_Intelligence_DRAFT.twbx), [source CSV](tableau/customers.csv), and [publication / QA instructions](tableau/PUBLISHING.md) are available. No customer Tableau screenshot or live URL is claimed.
+**[Explore Customer Intelligence & Marketing Strategy on Tableau Public](https://public.tableau.com/app/profile/harin.choi/viz/CustomerIntelligenceMarketingStrategy/MarketingStrategyBusinessInsights#1)** — one shared customer dataset, three connected dashboard tabs: Customer Segmentation, RFM Customer Analysis, and Marketing Strategy & Business Insights.
+
+[![Live Customer Segmentation dashboard](assets/customer-segmentation-dashboard.jpg)](https://public.tableau.com/app/profile/harin.choi/viz/CustomerIntelligenceMarketingStrategy/MarketingStrategyBusinessInsights#1)
+
+Screenshots are captured from the published Tableau workbook. Select the named tab to explore each dashboard. [Published workbook download](tableau/Customer_Intelligence_Marketing_Strategy.twbx) · [Data and publication checks](tableau/PUBLISHING.md).
 
 ## Business problem
 Which customers generate observed purchase value, which show historical inactivity, and where should a commercial team investigate before investing in outreach?
@@ -37,9 +41,8 @@ Prioritize relationship-care tests for Champions and investigate purchase-cycle 
 python -m pip install -r requirements.txt
 # Download the original Excel workbook from the UCI source below and keep it local.
 python src/build.py --input /path/to/online_retail_II.xlsx --output .
-python src/build_workbook.py
 ```
-[Official input](https://archive.ics.uci.edu/dataset/502/online+retail+ii). Outputs include ignored private transactions, customer and RFM tables, local SQLite database, Tableau CSVs and audit documentation. No raw workbook or DataCo customer records are committed. Exported customer keys are pseudonymous, not original customer identifiers. Workbook generation validates XML structure only; render and publish through Tableau before claiming completion.
+[Official input](https://archive.ics.uci.edu/dataset/502/online+retail+ii). Outputs include ignored private transactions, customer and RFM tables, local SQLite database, Tableau CSVs and audit documentation. No raw workbook or DataCo customer records are committed. Exported customer keys are pseudonymous, not original customer identifiers. The published three-dashboard workbook was built and verified in Tableau Public; its downloaded TWBX is included above and can be edited in Tableau.
 
 ## Original work and limitations
 The preserved `RFM.ipynb` originally used UCI Online Retail II in two separate annual sheets. It counted unique InvoiceDate values as frequency; the rebuilt pipeline counts distinct invoice IDs. The notebook is preserved unchanged as historical work, and is superseded by `src/build.py` for reproducible calculations.
@@ -47,7 +50,7 @@ The preserved `RFM.ipynb` originally used UCI Online Retail II in two separate a
 The rebuilt combined analysis changes eligibility, currency rounding, observation date and scoring. It is not numerically interchangeable with original annual results. Recency is relative to 10 Dec 2011. Ties receive equal scores; segments follow documented ordered rules. Purchase value excludes returns and is neither net revenue, profit nor CLV. Geography allocates full customer histories to their latest country. Historical retailer patterns do not establish current logistics demand. See [limitations and definitions](docs/methodology.md).
 
 ## Technologies
-Python · pandas · NumPy · SQLite / SQL · Tableau-ready CSV · editable Tableau XML draft.
+Python · pandas · NumPy · SQLite / SQL · Tableau-ready CSV · Tableau Public dashboards.
 
 ## Explore related work
 [Customer Segmentation](https://github.com/choi-hr/Customer-segmentation) · [Commercial Logistics Intelligence](https://github.com/choi-hr/commercial-logistics-intelligence) · [Tableau profile](https://public.tableau.com/app/profile/harin.choi/vizzes)
