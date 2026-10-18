@@ -1,0 +1,13 @@
+{
+  "customers_where_timestamp_frequency_differs": 171,
+  "distinct_invoice_total": 36969,
+  "distinct_timestamp_customer_total": 36851,
+  "persisted_database_rows": 779425,
+  "sql_customer_reconciliation_repeated_from_csv": true,
+  "tie_consistency": {
+    "recency_days": true,
+    "frequency": true,
+    "monetary_pence": true
+  },
+  "original_identifiers_excluded": true
+}

@@ -1,0 +1,57 @@
+{
+  "source_sha256": "bcbe73b35f5b7babf197fb0cb983a11f5d9ff929078d4aa53d171b1f2df2e980",
+  "raw_rows": 1067371,
+  "sheets": {
+    "Year 2009-2010": 525461,
+    "Year 2010-2011": 541910
+  },
+  "missing_by_column": {
+    "invoice": 0,
+    "stock": 0,
+    "Description": 4382,
+    "quantity": 0,
+    "date": 0,
+    "price": 0,
+    "customer_id": 243007,
+    "country": 0
+  },
+  "exact_duplicate_rows": 34335,
+  "cancellation_rows": 19494,
+  "negative_quantity_rows": 22950,
+  "nonpositive_price_rows": 6207,
+  "date_min": "2009-12-01 07:45:00",
+  "date_max": "2011-12-09 12:50:00",
+  "eligible_rows": 779425,
+  "customers": 5878,
+  "orders": 36969,
+  "revenue_gbp": 17374804.25,
+  "observation_date": "2011-12-10",
+  "repeat_customer_share": 0.7238856753997959,
+  "customers_multiple_countries": 13,
+  "score_cutpoints": {
+    "recency_days": {
+      "0.2": 20.0,
+      "0.4": 59.0,
+      "0.6": 190.0,
+      "0.8": 411.0
+    },
+    "frequency": {
+      "0.2": 1.0,
+      "0.4": 2.0,
+      "0.6": 4.0,
+      "0.8": 8.0
+    },
+    "monetary_pence": {
+      "0.2": 28557.6,
+      "0.4": 60921.20000000001,
+      "0.6": 122090.2,
+      "0.8": 291008.2
+    }
+  },
+  "checks": {
+    "sql_customer_reconciliation": true,
+    "integer_revenue_reconciliation": true,
+    "invoice_customer_uniqueness": true,
+    "segment_reconciliation": true
+  }
+}

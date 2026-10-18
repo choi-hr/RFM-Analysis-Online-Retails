@@ -1,0 +1,538 @@
+{
+  "query_1": [
+    {
+      "eligible_lines": 779425,
+      "customers": 5878,
+      "orders": 36969,
+      "revenue_gbp": 17374804.25,
+      "aov_gbp": 469.98307365630666
+    }
+  ],
+  "query_2": [
+    {
+      "customer_key": "5e9c24176797f210",
+      "frequency": 145,
+      "monetary_gbp": 580987.04,
+      "last_purchase": "2011-12-09 11:50:00"
+    },
+    {
+      "customer_key": "d96ff813c76cbeff",
+      "frequency": 151,
+      "monetary_gbp": 528602.52,
+      "last_purchase": "2011-12-08 12:12:00"
+    },
+    {
+      "customer_key": "3797014962563003",
+      "frequency": 156,
+      "monetary_gbp": 313437.62,
+      "last_purchase": "2011-11-30 10:54:00"
+    },
+    {
+      "customer_key": "a26eff0daa819dd1",
+      "frequency": 398,
+      "monetary_gbp": 291420.81,
+      "last_purchase": "2011-12-08 15:54:00"
+    },
+    {
+      "customer_key": "bc0166c246c66feb",
+      "frequency": 51,
+      "monetary_gbp": 244784.25,
+      "last_purchase": "2011-12-01 13:29:00"
+    },
+    {
+      "customer_key": "d052c21c2b0c437e",
+      "frequency": 143,
+      "monetary_gbp": 195640.69,
+      "last_purchase": "2011-12-06 09:32:00"
+    },
+    {
+      "customer_key": "e080caca061adbf7",
+      "frequency": 60,
+      "monetary_gbp": 172132.87,
+      "last_purchase": "2011-12-07 10:12:00"
+    },
+    {
+      "customer_key": "065a2e230c538be2",
+      "frequency": 2,
+      "monetary_gbp": 168472.5,
+      "last_purchase": "2011-12-09 09:15:00"
+    },
+    {
+      "customer_key": "43265b958df61ed3",
+      "frequency": 55,
+      "monetary_gbp": 147142.77,
+      "last_purchase": "2011-12-05 14:06:00"
+    },
+    {
+      "customer_key": "bc95d3d2f891b3d2",
+      "frequency": 28,
+      "monetary_gbp": 144458.37,
+      "last_purchase": "2011-11-15 14:22:00"
+    }
+  ],
+  "query_3": [
+    {
+      "segment": "Champions",
+      "customers": 1268,
+      "orders": 22034,
+      "revenue_gbp": 11795212.16,
+      "mean_recency": 20.145899053627762,
+      "mean_frequency": 17.376971608832807,
+      "mean_monetary_gbp": 9302.217791798108
+    },
+    {
+      "segment": "Loyal Customers",
+      "customers": 611,
+      "orders": 5101,
+      "revenue_gbp": 1785106.44,
+      "mean_recency": 86.74631751227496,
+      "mean_frequency": 8.34860883797054,
+      "mean_monetary_gbp": 2921.614468085106
+    },
+    {
+      "segment": "At Risk",
+      "customers": 478,
+      "orders": 2941,
+      "revenue_gbp": 1501699.67,
+      "mean_recency": 361.7928870292887,
+      "mean_frequency": 6.152719665271967,
+      "mean_monetary_gbp": 3141.631108786611
+    },
+    {
+      "segment": "Potential Loyalists",
+      "customers": 711,
+      "orders": 2051,
+      "revenue_gbp": 867483.92,
+      "mean_recency": 25.876230661040786,
+      "mean_frequency": 2.8846694796061882,
+      "mean_monetary_gbp": 1220.0899015471168
+    },
+    {
+      "segment": "Needs Attention",
+      "customers": 1008,
+      "orders": 2588,
+      "revenue_gbp": 821047.04,
+      "mean_recency": 190.28670634920636,
+      "mean_frequency": 2.5674603174603177,
+      "mean_monetary_gbp": 814.5307936507936
+    },
+    {
+      "segment": "Hibernating",
+      "customers": 1565,
+      "orders": 2017,
+      "revenue_gbp": 523749.58,
+      "mean_recency": 458.56932907348244,
+      "mean_frequency": 1.288817891373802,
+      "mean_monetary_gbp": 334.66426837060703
+    },
+    {
+      "segment": "New / Recent",
+      "customers": 237,
+      "orders": 237,
+      "revenue_gbp": 80505.44,
+      "mean_recency": 30.468354430379748,
+      "mean_frequency": 1.0,
+      "mean_monetary_gbp": 339.6854008438819
+    }
+  ],
+  "query_4": [
+    {
+      "country": "United Kingdom",
+      "customers": 5350,
+      "revenue_gbp": 14389436.46,
+      "repeat_share": 0.7244859813084112
+    },
+    {
+      "country": "EIRE",
+      "customers": 4,
+      "revenue_gbp": 616368.98,
+      "repeat_share": 0.75
+    },
+    {
+      "country": "Netherlands",
+      "customers": 22,
+      "revenue_gbp": 554038.09,
+      "repeat_share": 0.7272727272727273
+    },
+    {
+      "country": "Germany",
+      "customers": 106,
+      "revenue_gbp": 424922.66,
+      "repeat_share": 0.7924528301886793
+    },
+    {
+      "country": "France",
+      "customers": 95,
+      "revenue_gbp": 349107.36,
+      "repeat_share": 0.7157894736842105
+    },
+    {
+      "country": "Australia",
+      "customers": 15,
+      "revenue_gbp": 174439.59,
+      "repeat_share": 0.6666666666666666
+    },
+    {
+      "country": "Spain",
+      "customers": 39,
+      "revenue_gbp": 112564.77,
+      "repeat_share": 0.6410256410256411
+    },
+    {
+      "country": "Switzerland",
+      "customers": 20,
+      "revenue_gbp": 95035.03,
+      "repeat_share": 0.95
+    },
+    {
+      "country": "Sweden",
+      "customers": 19,
+      "revenue_gbp": 91515.82,
+      "repeat_share": 0.47368421052631576
+    },
+    {
+      "country": "Denmark",
+      "customers": 10,
+      "revenue_gbp": 68332.35,
+      "repeat_share": 0.9
+    },
+    {
+      "country": "Belgium",
+      "customers": 27,
+      "revenue_gbp": 63980.07,
+      "repeat_share": 0.7777777777777778
+    },
+    {
+      "country": "Norway",
+      "customers": 13,
+      "revenue_gbp": 56322.5,
+      "repeat_share": 0.5384615384615384
+    },
+    {
+      "country": "Portugal",
+      "customers": 24,
+      "revenue_gbp": 55554.78,
+      "repeat_share": 0.75
+    },
+    {
+      "country": "Channel Islands",
+      "customers": 13,
+      "revenue_gbp": 44623.33,
+      "repeat_share": 0.9230769230769231
+    },
+    {
+      "country": "Japan",
+      "customers": 10,
+      "revenue_gbp": 43023.91,
+      "repeat_share": 0.7
+    },
+    {
+      "country": "Italy",
+      "customers": 17,
+      "revenue_gbp": 32108.17,
+      "repeat_share": 0.7058823529411765
+    },
+    {
+      "country": "Finland",
+      "customers": 14,
+      "revenue_gbp": 29925.54,
+      "repeat_share": 0.7142857142857143
+    },
+    {
+      "country": "Singapore",
+      "customers": 1,
+      "revenue_gbp": 25317.06,
+      "repeat_share": 1.0
+    },
+    {
+      "country": "Cyprus",
+      "customers": 10,
+      "revenue_gbp": 23392.99,
+      "repeat_share": 0.7
+    },
+    {
+      "country": "Austria",
+      "customers": 11,
+      "revenue_gbp": 22123.21,
+      "repeat_share": 0.8181818181818182
+    },
+    {
+      "country": "Greece",
+      "customers": 5,
+      "revenue_gbp": 19096.19,
+      "repeat_share": 0.6
+    },
+    {
+      "country": "Poland",
+      "customers": 6,
+      "revenue_gbp": 10654.29,
+      "repeat_share": 0.6666666666666666
+    },
+    {
+      "country": "Israel",
+      "customers": 4,
+      "revenue_gbp": 10415.24,
+      "repeat_share": 0.5
+    },
+    {
+      "country": "United Arab Emirates",
+      "customers": 4,
+      "revenue_gbp": 9202.69,
+      "repeat_share": 0.5
+    },
+    {
+      "country": "Unspecified",
+      "customers": 6,
+      "revenue_gbp": 8607.35,
+      "repeat_share": 0.6666666666666666
+    },
+    {
+      "country": "USA",
+      "customers": 9,
+      "revenue_gbp": 8366.86,
+      "repeat_share": 0.5555555555555556
+    },
+    {
+      "country": "Malta",
+      "customers": 2,
+      "revenue_gbp": 8099.09,
+      "repeat_share": 1.0
+    },
+    {
+      "country": "Iceland",
+      "customers": 1,
+      "revenue_gbp": 4921.53,
+      "repeat_share": 1.0
+    },
+    {
+      "country": "Lithuania",
+      "customers": 1,
+      "revenue_gbp": 4892.68,
+      "repeat_share": 1.0
+    },
+    {
+      "country": "Canada",
+      "customers": 5,
+      "revenue_gbp": 4883.04,
+      "repeat_share": 0.4
+    },
+    {
+      "country": "Thailand",
+      "customers": 1,
+      "revenue_gbp": 3070.54,
+      "repeat_share": 1.0
+    },
+    {
+      "country": "RSA",
+      "customers": 2,
+      "revenue_gbp": 1933.74,
+      "repeat_share": 0.0
+    },
+    {
+      "country": "Lebanon",
+      "customers": 1,
+      "revenue_gbp": 1693.88,
+      "repeat_share": 0.0
+    },
+    {
+      "country": "Brazil",
+      "customers": 2,
+      "revenue_gbp": 1411.87,
+      "repeat_share": 0.0
+    },
+    {
+      "country": "Bahrain",
+      "customers": 2,
+      "revenue_gbp": 1354.37,
+      "repeat_share": 1.0
+    },
+    {
+      "country": "European Community",
+      "customers": 1,
+      "revenue_gbp": 1300.25,
+      "repeat_share": 1.0
+    },
+    {
+      "country": "Korea",
+      "customers": 2,
+      "revenue_gbp": 1118.51,
+      "repeat_share": 0.0
+    },
+    {
+      "country": "Czech Republic",
+      "customers": 1,
+      "revenue_gbp": 826.74,
+      "repeat_share": 1.0
+    },
+    {
+      "country": "West Indies",
+      "customers": 1,
+      "revenue_gbp": 536.41,
+      "repeat_share": 0.0
+    },
+    {
+      "country": "Saudi Arabia",
+      "customers": 1,
+      "revenue_gbp": 145.92,
+      "repeat_share": 0.0
+    },
+    {
+      "country": "Nigeria",
+      "customers": 1,
+      "revenue_gbp": 140.39,
+      "repeat_share": 1.0
+    }
+  ],
+  "query_5": [
+    {
+      "R": 1,
+      "F": 1,
+      "customers": 713,
+      "revenue_gbp": 243224.82
+    },
+    {
+      "R": 1,
+      "F": 2,
+      "customers": 235,
+      "revenue_gbp": 173198.79
+    },
+    {
+      "R": 1,
+      "F": 3,
+      "customers": 152,
+      "revenue_gbp": 187887.61
+    },
+    {
+      "R": 1,
+      "F": 4,
+      "customers": 53,
+      "revenue_gbp": 136709.59
+    },
+    {
+      "R": 1,
+      "F": 5,
+      "customers": 15,
+      "revenue_gbp": 99572.33
+    },
+    {
+      "R": 2,
+      "F": 1,
+      "customers": 425,
+      "revenue_gbp": 136391.72
+    },
+    {
+      "R": 2,
+      "F": 2,
+      "customers": 266,
+      "revenue_gbp": 170200.28
+    },
+    {
+      "R": 2,
+      "F": 3,
+      "customers": 270,
+      "revenue_gbp": 322900.85
+    },
+    {
+      "R": 2,
+      "F": 4,
+      "customers": 165,
+      "revenue_gbp": 313102.62
+    },
+    {
+      "R": 2,
+      "F": 5,
+      "customers": 49,
+      "revenue_gbp": 457055.18
+    },
+    {
+      "R": 3,
+      "F": 1,
+      "customers": 248,
+      "revenue_gbp": 100150.58
+    },
+    {
+      "R": 3,
+      "F": 2,
+      "customers": 176,
+      "revenue_gbp": 125741.39
+    },
+    {
+      "R": 3,
+      "F": 3,
+      "customers": 284,
+      "revenue_gbp": 380360.53
+    },
+    {
+      "R": 3,
+      "F": 4,
+      "customers": 284,
+      "revenue_gbp": 647942.56
+    },
+    {
+      "R": 3,
+      "F": 5,
+      "customers": 188,
+      "revenue_gbp": 1008999.48
+    },
+    {
+      "R": 4,
+      "F": 1,
+      "customers": 160,
+      "revenue_gbp": 53996.56
+    },
+    {
+      "R": 4,
+      "F": 2,
+      "customers": 143,
+      "revenue_gbp": 94169.84
+    },
+    {
+      "R": 4,
+      "F": 3,
+      "customers": 256,
+      "revenue_gbp": 298584.61
+    },
+    {
+      "R": 4,
+      "F": 4,
+      "customers": 272,
+      "revenue_gbp": 684555.79
+    },
+    {
+      "R": 4,
+      "F": 5,
+      "customers": 309,
+      "revenue_gbp": 2282010.94
+    },
+    {
+      "R": 5,
+      "F": 1,
+      "customers": 77,
+      "revenue_gbp": 26508.88
+    },
+    {
+      "R": 5,
+      "F": 2,
+      "customers": 124,
+      "revenue_gbp": 248124.55
+    },
+    {
+      "R": 5,
+      "F": 3,
+      "customers": 188,
+      "revenue_gbp": 226604.92
+    },
+    {
+      "R": 5,
+      "F": 4,
+      "customers": 260,
+      "revenue_gbp": 568429.38
+    },
+    {
+      "R": 5,
+      "F": 5,
+      "customers": 566,
+      "revenue_gbp": 8388380.45
+    }
+  ]
+}
